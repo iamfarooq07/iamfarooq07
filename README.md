@@ -1,4 +1,4 @@
-MuhammadUmair1019/README.md
+
 Hi there I am Muhammad Farooq 
 ✔️ Beginnier
 📫 How to reach me:
