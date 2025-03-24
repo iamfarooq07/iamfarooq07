@@ -1,9 +1,5 @@
 
-Hi there I am Muhammad Farooq 
-✔️ Beginnier
-📫 How to reach me:
-:octocat: Github => 🔗 https://github.com/iamfarooq07
-🟣 LinkedIn: => 🔗https://www.linkedin.com/in/muhammad-farooq-123f/
+
 
 
 <!---
