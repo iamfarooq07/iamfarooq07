@@ -6,7 +6,7 @@
 
 <h1> 📫 How to reach me</h1> 
 
--  linkedin => https://www.linkedin.com/in/muhammad-farooq-123f/
+-  linkedin =>[ https://www.linkedin.com/in/muhammad-farooq-123f/](https://www.linkedin.com/in/muhammad-farooq-123f/)
 
 -  Github  => https://github.com/iamfarooq07
     
