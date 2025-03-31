@@ -14,7 +14,7 @@
 
 - 📝 My First Project  => [https://01coding-blog.netlify.app](https://01coding-blog.netlify.app)
 
-- 👨‍💻 My projects => [https://p-world.netlify.app](progarmming-world.netlify.app)
+- 👨‍💻 My projects => [https://progarmming-world.netlify.app](https://progarmming-world.netlify.app)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img
