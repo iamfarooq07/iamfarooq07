@@ -13,7 +13,7 @@
 <h2>🏅 Projects :</h2>
 
 - 📝 My First Project  => [https://01coding-blog.netlify.app](https://01coding-blog.netlify.app)
-- 
+
 - 📝 Youtube Clone  => [https://farooq01.netlify.app](https://farooq01.netlify.app)
 
 - 👨‍💻 My projects => [https://progarmming-world.netlify.app](https://progarmming-world.netlify.app)
