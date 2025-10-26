@@ -9,6 +9,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-farooq-123f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-farooq-123f/" height="30" width="40" /></a>
 </p>
 
+<h1 align="left">🌐 Portfolio:</h1>
+<p align="left">
+  <a href="https://iamfarooq07.github.io/New-Portfolio-side/" target="_blank" 
+     style="display:inline-block; padding:10px 18px; background-color:#000000; color:blue; border-radius:8px; text-decoration:none; font-weight:600; border:1px solid #333;">
+    💼 View My Portfolio
+  </a>
+</p>
+<hr/>
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
