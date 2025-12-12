@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=34F5FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Farooq!;A+Full+Stack+Developer+%26+React+Enthusiast" alt="Typing animation" />
 </h1>
 
@@ -53,4 +53,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+ -->
