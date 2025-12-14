@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=34F5FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Farooq!;Frontend+Developer+And+React+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=aeb6f2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Farooq!;Frontend+Developer+And+React+Developer" alt="Typing animation" />
 </h1>
+
 
 
 
