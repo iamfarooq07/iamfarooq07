@@ -6,10 +6,8 @@
 
   # 🌐 Portfolio Website
 
-  [![Portfolio Live](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
-  [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/portfolio-repo)
+  [![Portfolio Live]([https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app](https://react-protfolio-olive.vercel.app/))
 
-  <p>Full-Stack MERN / PERN Developer | Interactive UI & Modern Web Solutions</p>
 
 </div>
 
