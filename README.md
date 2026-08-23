@@ -1,7 +1,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Farooq!;MERN+%26+PERN+Stack+Developer+-+Back+End+Developer" alt="Typing animation" />
 </h1>
+<!-- Portfolio Hero Card -->
+<div align="center">
 
+  # 🌐 Portfolio Website
+
+  [![Portfolio Live](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+  [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/portfolio-repo)
+
+  <p>Full-Stack MERN / PERN Developer | Interactive UI & Modern Web Solutions</p>
+
+</div>
+
+---
 
 <img
   src="https://static.wixstatic.com/media/fde2b0_d6cf3b0a35c04070bc3c05efaf3ce5b2~mv2.gif"
