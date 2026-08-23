@@ -2,14 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Farooq!;MERN+%26+PERN+Stack+Developer+-+Back+End+Developer" alt="Typing animation" />
 </h1>
 <!-- Portfolio Hero Card -->
+<!-- Portfolio Hero Card -->
+<!-- Portfolio Hero Card -->
 <div align="center">
 
   # 🌐 Portfolio Website
 
-  [![Portfolio Live]([https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app](https://react-protfolio-olive.vercel.app/))
-
+  [![Portfolio Live](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-protfolio-olive.vercel.app/)
 
 </div>
+
+---
+
+---
 
 ---
 
